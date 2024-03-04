@@ -48,7 +48,7 @@ BMI: 19.0 - 47.75
  follow the rules for each and every parameter for all 3 classes and follow the ranges instruction
  retuen it in Excel format shown in the Example
 
- Add his age, state of the health also
+ Add his age, state of the health also and donot give in future time
 
 
    Example:
